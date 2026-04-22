@@ -14,3 +14,8 @@ Thumbs.db
 
 # Env files
 .env
+
+# Dataset (IMPORTANT)
+real/
+fake/
+data/
